@@ -1,1 +1,4 @@
 This is a newbie story
+
+The following line is the edit in the "rename-edit_20191007" branch
+QQ
